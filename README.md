@@ -279,3 +279,4 @@ def NER(text):
 |                   | Regular Expression      | 114it/s     | 44s                   |
 |                   | Name Entity Recognition | 39.46it/s   | 126s                  |
 
+When applying the Name Entity recognition method, I choose the whole dataset as the train_data and no data for evaluation. If the dataset is splited, more parameters can be recorded(e.g. F1 score).
