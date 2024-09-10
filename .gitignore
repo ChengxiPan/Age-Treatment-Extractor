@@ -1,0 +1,11 @@
+__pycache__
+backups/
+bioBERT/
+llama/
+models/
+tests/
+.zshrc
+*.log
+*.csv
+*.ipynb
+*.txt
