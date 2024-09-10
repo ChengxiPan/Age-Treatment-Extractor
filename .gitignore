@@ -1,11 +1,11 @@
 __pycache__
 backups/
-bioBERT/
+bioBERT/NER_results
 llama/
 models/
 tests/
 .zshrc
 *.log
-*.csv
-*.ipynb
 *.txt
+metadata.csv
+mtsamples.csv
