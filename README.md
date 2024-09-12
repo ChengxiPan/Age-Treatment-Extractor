@@ -274,8 +274,8 @@ def NER(text):
 | ----------------- | ----------------------- | ----------- | --------------------- |
 | Age Extract       | Regular Expressions     | 7868it/s    | 0.66s                 |
 | Treatment Extract | gpt-3.5-turbo           | 1.87it/s    | 2670s                 |
-|                   | **gpt-4o-mini**         | **2.5it/s** | (not test completely) |
-|                   | gpt-4o                  | 2.27it/s    | (not test completely) |
+|                   | **gpt-4o-mini**         | **2.5it/s** | 2000s |
+|                   | gpt-4o                  | 2.27it/s    | (not test completely, too expensive) |
 |                   | Regular Expression      | 114it/s     | 44s                   |
 |                   | Name Entity Recognition | 39.46it/s   | 126s                  |
 
